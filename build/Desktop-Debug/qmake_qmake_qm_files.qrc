@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="i18n">
+<file alias="chatbot_ru_RU.qm">/home/zokz/coding/qtcreator/chatbot/build/Desktop-Debug/.qm/chatbot_ru_RU.qm</file>
+</qresource>
+</RCC>
